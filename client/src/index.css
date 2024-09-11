@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  display: block;
+  width: 0.75rem;
+  height: 0.5rem;
+  background: transparent;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(16 185 129);
+  border-radius: 3px;
+}
+
+@media (width < 640px) {
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@media (width < 440px) {
+  .container {
+    width: 20rem;
+  }
+}
