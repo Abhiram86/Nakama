@@ -10,8 +10,8 @@
 ![Home Page Image](./images/profile.png)
 
 <p align="center">
-  <img src="./images/mHome"/>
-  <img src="./images/mGroups"/>
-  <img src="./images/mGroup"/>
-  <img src="./images/mProfile"/>
+  <img src="./images/mHome.png"/>
+  <img src="./images/mGroups.png"/>
+  <img src="./images/mGroup.png"/>
+  <img src="./images/mProfile.png"/>
 </p>
